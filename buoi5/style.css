@@ -1,0 +1,15 @@
+.container
+{
+    max-width: 900px;
+    margin:0 auto;
+    background-color: pink;
+}
+.titleMV
+{
+    display:flex;
+    align-item:center;
+    width: 100%;
+    height:100%;
+
+
+}
